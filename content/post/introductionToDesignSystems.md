@@ -4,7 +4,7 @@ title: Introduction to design systems playlist by Figma
 date: 2023-05-30
 description:
 math: true
-comment: true
+comments: true
 ---
 📣 Exciting news! Figma released an 80-minute tutorial playlist on YouTube last week, covering a lot about design systems. Though it is not a complete guide, it can be an excellent starting point for learning about design systems.
 
