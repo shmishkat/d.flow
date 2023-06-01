@@ -4,6 +4,7 @@ description:
 date:
 aliases: ["about-us", "about-hugo", "contact"]
 author: "Sarowar H."
+comments: false
 ---
 
 - Portfolio: [Sarowar Hossain](https://www.sarowarhossain.com)
