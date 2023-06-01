@@ -11,6 +11,7 @@ enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 # ------------------------------
+disqusShortname = 'Sarowar'
 theme = "paper"
 title = "d.flows"
 
