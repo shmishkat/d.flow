@@ -8,7 +8,7 @@ comments: false
 ### Design Flows ###
 The inspiration behind this website was the book [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X). In the third chapter, “Share something small every day,” the author discussed the concept of “Flow and stock.” 
 
-Flow is basically the stream of updates of what I’m reading, practicing, and working on daily. On the other hand, Stock is something that is relevant today or in two years, such as my case studies, articles, artifacts, etc. Which are suitable for my [portfolio](https://www.sarowarhossain.com/) or [medium stories](https://sarowar-hossain.medium.com/).
+Flow is basically the stream of updates of what I’m reading, practicing, and working on daily. On the other hand, Stock is something that is relevant today or in two years, such as my case studies, articles, artifacts, etc, which are suitable for my [portfolio](https://www.sarowarhossain.com/) or [medium stories](https://sarowar-hossain.medium.com/).
 
 The idea I liked the most was that the author discussed social media sites work like public notebooks, where we can think out loud, and it allows other people to THINK BACK. Over time, the flow helps us think clearly, build patterns, and form Stock over time. 
 
