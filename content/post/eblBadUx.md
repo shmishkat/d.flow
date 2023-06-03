@@ -3,7 +3,7 @@ title: "Bad UX of EBL's ATM"
 date: 2022-06-04
 author: "Sarowar H."
 description: "The ATM does not even have as basic an input field"
-tags: ["UX","Accessibility"]
+tags: ["UX","Accessibility","Usability"]
 comments: true
 ---
 
