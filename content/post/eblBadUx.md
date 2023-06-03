@@ -13,12 +13,8 @@ My payroll account for my new job is at EBL; hence I don’t have any other choi
 
 Today, I tried to withdraw some cash at the ATM booth, and I was dumbfounded by the particular screen (image below). I did not know what to do. The designer failed to convey the message with visuals that where to type the pin, which evidently increased the cognitive load for such a simple task. I had to read the instruction, which said to type the pin. As I started to type, the asterisk (*) appeared on the screen. It was an unpleasant friction that could easily be avoided by putting a **Pin Input Field.** <br>
 
-![Alt Text](/eblatmbooth.webp)
+{{< figure src="/eblBadUx/imgs/eblatmbooth.png" >}}
 
-{{< figure src="/imgs/eblatmbooth.png" >}}
-![nccl](/imgs/eblatmbooth.png)
-
-![Example image](/static/eblatmbooth.png)
 **Edit:** When I was writing this, I could not remember if there was audio feedback from the ATM. I was thinking that even if the input field were missing if there were an audio voice-over saying something like “Enter your password”, that would be really helpful too. 
 
 Other than this, the thing that concerns me the most is ***Accessibility***. Imagine a visually impaired person trying to use the ATM. S/he will not be able to navigate through every step because, as you can see that the audio output is unclear (Video below). Perhaps the ATM was tested in a lab environment without keeping the roadside hostile and noisy environment in mind. In order to fix this, the volume needs to be increased, and the voice-over needs to be made keeping the full range of human diversity in mind, hence adopting ***Inclusive Design***. 
