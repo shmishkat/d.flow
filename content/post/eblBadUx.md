@@ -13,7 +13,7 @@ My payroll account for my new job is at EBL; hence I don’t have any other choi
 
 Today, I tried to withdraw some cash at the ATM booth, and I was dumbfounded by the particular screen (image below). I did not know what to do. The designer failed to convey the message with visuals that where to type the pin, which evidently increased the cognitive load for such a simple task. I had to read the instruction, which said to type the pin. As I started to type, the asterisk (*) appeared on the screen. It was an unpleasant friction that could easily be avoided by putting a **Pin Input Field.** <br>
 
-{{< figure src="/eblBadUx/imgs/eblatmbooth.png" >}}
+{{< figure src="/imgs/eblBadUx/eblatmbooth.png" >}}
 
 **Edit:** When I was writing this, I could not remember if there was audio feedback from the ATM. I was thinking that even if the input field were missing if there were an audio voice-over saying something like “Enter your password”, that would be really helpful too. 
 
