@@ -4,6 +4,7 @@ date: 2022-06-04
 author: "Sarowar H."
 description: "The ATM does not even have as basic an input field"
 tags: ["UX","Accessibility","Usability"]
+weight: 10
 comments: true
 ---
 
