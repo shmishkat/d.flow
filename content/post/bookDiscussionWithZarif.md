@@ -6,6 +6,7 @@ description:
 comments: true
 tags: ["Books"]
 ---
+
 {{< figure src="/imgs/bookDiscussionWithZarif/1687499222609.jpeg" >}}
 {{< figure src="/imgs/bookDiscussionWithZarif/1687499216497.jpeg" >}}
 
