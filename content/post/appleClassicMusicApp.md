@@ -1,12 +1,12 @@
 ---
 author: Sarowar H.
-title: From Beethoven to Bach How Apple's new app makes classical music
-discovery a breeze
+title: From Beethoven to Bach How Apples new app makes classical music discovery a breeze
 date: 2023-07-02
 description:
 comments: true
 tags: ["UX","Apple"]
 ---
+{{< figure src="/imgs/appleClassicMusicApp/appleClassicMusicApp.png" >}}
 
 Apple silently bought a classical music streaming service, Primephonic, and killed it to launch its own. Apple did it to solve a UX problem—searching classical music by its convoluted names.
 
@@ -16,4 +16,3 @@ I wrote an article on how Apple solved this UX problem, which got published on U
 
 Link: https://medium.com/user-experience-design-1/from-beethoven-to-bach-how-apples-new-app-makes-classical-music-discovery-a-breeze-333347a44777
 
-{{< figure src="/imgs/appleClassicMusicApp/appleClassicMusicApp.png" >}}
