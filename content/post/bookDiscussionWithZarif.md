@@ -1,6 +1,6 @@
 ---
 author: Sarowar H.
-title: "Show Your Work" Disucssion
+title: Show Your Work Disucssion
 date: 2023-06-22
 description:
 comments: true
