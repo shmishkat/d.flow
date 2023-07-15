@@ -1,11 +1,11 @@
 ---
 author: Sarowar H.
-title: From Beethoven to Bach: how Apple's new app makes classical music
+title: From Beethoven to Bach How Apple's new app makes classical music
 discovery a breeze
 date: 2023-07-02
 description:
 comments: true
-tags: ["Figma","UIKit","DesignKit","Resources"]
+tags: ["UX","Apple"]
 ---
 
 Apple silently bought a classical music streaming service, Primephonic, and killed it to launch its own. Apple did it to solve a UX problem—searching classical music by its convoluted names.
